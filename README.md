@@ -36,7 +36,7 @@ Each architecture is studied with respect to:
 
 ---
 
-## 📊 Summary
+## Summary
 
 | Model   | Layers               | Activation | Params | Pooling | Dropout |
 |---------|----------------------|------------|--------|---------|---------|
