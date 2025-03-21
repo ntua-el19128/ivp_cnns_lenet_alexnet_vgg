@@ -1,4 +1,4 @@
-# IVP Lab Project 2 – Comparison of CNN Architectures
+# IVP – Comparison of CNN Architectures
 
 The project focuses on the comparison of well-known Convolutional Neural Network (CNN) architectures in terms of design and performance.
 
